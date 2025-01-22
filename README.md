@@ -1,6 +1,6 @@
 ! [BuildStatus] (https://github.com/gkim9/HW2-BFS/workflows/HW2-BFS/badge.svg?event=push)
 
-# Assignment 2
+# BMI203 HW 2
 Breadth-first search
 
 # Breadth-First Search
