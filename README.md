@@ -1,4 +1,4 @@
-! [BuildStatus] (https://github.com/gkim9/HW2-BFS/workflows/HW2_BFS/badge.svg)
+! [BuildStatus] (https://github.com/gkim9/HW2-BFS/workflows/HW2-BFS/badge.svg)
 
 # BMI203 HW 2
 Breadth-first search
